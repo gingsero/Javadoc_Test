@@ -1,4 +1,7 @@
 # Javadoc_Test
+<font color='red'>
+Temporarily ending with a question about necessity
+</font>
 Eclipse javadoc &amp; comment template + opensource tool
 
 A Study of Javadoc
